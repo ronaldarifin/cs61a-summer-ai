@@ -22,4 +22,4 @@ b. The mistake of forgetting instance, class, and super class searching
 an exam question we went together in class.
 
 How to use:
-git clone https://github.com/ronaldarifin/cs61a-summer-ai/tree/main
+git clone https://github.com/ronaldarifin/cs61a-summer-ai
